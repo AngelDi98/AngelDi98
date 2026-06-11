@@ -29,6 +29,7 @@
 - Python
 - C++
 - SQL
+- Fortran
 
 ### Data Analysis
 
