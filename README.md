@@ -1,4 +1,4 @@
-# Hi, I'm Luis Ángel Díaz 👋
+# Hi, I'm Luis Angel 👋
 
 🎓 Physicist and Master's student in Industrial Physics Engineering at UANL.
 
